@@ -1,0 +1,15 @@
+functionality:
+Level0: yes
+Level1: yes
+Level2: yes
+Level3: yes
+Level4: yes
+Level5: yes
+
+Extra Credit:
+Can render more than one spline (simply add number to track.txt and desired spline with it)
+Create my own track that can accelerate!	
+
+key k : start recording mode
+key c : end recording mode
+

@@ -1,0 +1,19 @@
+functionality:
+key 1: point mode
+key 2: line mode
+key 3: triangle mode
+key 4: smooth mode
+key 5: lines on top of triangles (Extra Credit)
+
+Extra Credit:
+Render wireframe on top of solid triangles (use glPolygonOffset to avoid z-buffer fighting).
+this program can render pictures other than the ones are initially given.
+See screenshot I have made some interesting one!!! Mario, Moon, humanface.
+
+key k : start recording mode
+key c : end recording mode
+key T (hold and drag the mouse) : translate mode
+key t (hold and drag the mouse) : translate mode 
+key Shift(hold and drag the mouse) : scale mode
+default mode(drag the mouse) : rotate mode
+
